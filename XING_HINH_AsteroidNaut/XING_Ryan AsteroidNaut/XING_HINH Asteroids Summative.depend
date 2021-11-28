@@ -1,0 +1,1002 @@
+# depslib dependency file v1.0
+1557945537 source:p:\projects\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558028382 p:\projects\xing_hinh asteroids summative\game.h
+
+1557855514 source:p:\projects\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1557855279 source:p:\projects\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558028396 source:p:\projects\xing_hinh asteroids summative\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558026605 source:p:\projects\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558132973 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190517t214124z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558239050 c:\users\xingr\downloads\xing_hinh asteroids summative-20190517t214124z-001\xing_hinh asteroids summative\game.h
+
+1558132973 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190517t214124z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558239017 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190517t214124z-001\xing_hinh asteroids summative\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558239680 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190517t214124z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558133132 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190517t214124z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558461254 source:p:\xing_hinh asteroids summative-20190521t175305z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558463186 p:\xing_hinh asteroids summative-20190521t175305z-001\xing_hinh asteroids summative\game.h
+
+1558461254 source:p:\xing_hinh asteroids summative-20190521t175305z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558463186 source:p:\xing_hinh asteroids summative-20190521t175305z-001\xing_hinh asteroids summative\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558461255 source:p:\xing_hinh asteroids summative-20190521t175305z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558464684 source:p:\xing_hinh asteroids summative-20190521t175305z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558485194 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190521t232552z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558492376 c:\users\xingr\downloads\xing_hinh asteroids summative-20190521t232552z-001\xing_hinh asteroids summative\game.h
+
+1558485195 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190521t232552z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558543278 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190521t232552z-001\xing_hinh asteroids summative\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558492706 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190521t232552z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558544265 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190521t232552z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558542172 source:p:\xing_hinh asteroids summative-20190522t162152z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558542781 p:\xing_hinh asteroids summative-20190522t162152z-001\xing_hinh asteroids summative\game.h
+
+1558542173 source:p:\xing_hinh asteroids summative-20190522t162152z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558542173 source:p:\xing_hinh asteroids summative-20190522t162152z-001\xing_hinh asteroids summative\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558542665 source:p:\xing_hinh asteroids summative-20190522t162152z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558542173 source:p:\xing_hinh asteroids summative-20190522t162152z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558578173 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558584228 c:\users\xingr\downloads\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\game.h
+
+1558578173 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558585066 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558578173 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1558584896 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\main.cpp
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559499097 source:f:\coding\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559523452 f:\coding\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\game.h
+
+1559500641 source:f:\coding\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559500641 source:f:\coding\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559502054 source:f:\coding\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559527087 source:f:\coding\xing_hinh asteroids summative-20190523t012212z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559584554 source:p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559763712 p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\game.h
+
+1559584555 source:p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559763712 source:p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559763713 source:p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559762868 source:p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559763291 source:p:\xing_hinh asteroids summative-newest\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559783885 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559786730 c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\game.h
+
+1559783885 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559787125 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559789718 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559792450 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559787144 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t001137z-001\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559839177 source:p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559932009 p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\game.h
+
+1559839177 source:p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559933975 source:p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559932986 source:p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559933892 source:p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559839175 source:p:\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1559952973 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1560115259 c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\game.h
+
+1559952973 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1560106313 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1560116115 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1560099511 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1560105880 source:c:\users\xingr\downloads\xing_hinh asteroids summative-20190606t163805z-001-20190607t231506z-001\xing_hinh asteroids summative-20190606t163805z-001\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	"game.h"
+
+1560126778 source:d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560129967 d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\game.h
+
+1560126317 source:d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560129911 source:d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560129344 source:d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560129968 source:d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560127210 source:d:\users\brenden\downloads\xing_hinh asteroids summative-newest-20190609t224715z-001\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560181700 source:p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\filefunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560181700 p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\game.h
+
+1560181700 source:p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\gameallegro.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560186556 source:p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560186486 source:p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\objectfunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560186081 source:p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\playerfunctions.cpp
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560181702 source:p:\xing_hinh_asteroids_summative\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311513 source:f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\filefunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311508 f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\game.h
+
+1560390542 source:f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\gameallegro.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560310948 source:f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311513 source:f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\objectfunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311513 source:f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\playerfunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560310948 source:f:\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311513 source:f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\filefunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311508 f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\game.h
+
+1560390542 source:f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\gameallegro.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560310948 source:f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\main.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560311513 source:f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\objectfunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1578701718 source:f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\playerfunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560310948 source:f:\xingr\coding\xing_hinh_asteroids_summative\xing_hinh asteroids summative\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560307913 source:f:\xingr\highschool coding\xing_hinh_asteroidnaut\xing_ryan asteroidnaut\filefunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560307908 f:\xingr\highschool coding\xing_hinh_asteroidnaut\xing_ryan asteroidnaut\game.h
+
+1560386942 source:f:\xingr\highschool coding\xing_hinh_asteroidnaut\xing_ryan asteroidnaut\gameallegro.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560307913 source:f:\xingr\highschool coding\xing_hinh_asteroidnaut\xing_ryan asteroidnaut\objectfunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1578698118 source:f:\xingr\highschool coding\xing_hinh_asteroidnaut\xing_ryan asteroidnaut\playerfunctions.cpp
+	<math.h>
+	<time.h>
+	<stdio.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
+1560307348 source:f:\xingr\highschool coding\xing_hinh_asteroidnaut\xing_ryan asteroidnaut\spritefunctions.cpp
+	<stdio.h>
+	<time.h>
+	<math.h>
+	<stdlib.h>
+	<allegro5/allegro.h>
+	"allegro5/allegro_image.h"
+	<allegro5/allegro_primitives.h>
+	"allegro5/allegro_native_dialog.h"
+	<allegro5/allegro_font.h>
+	<allegro5/allegro_ttf.h>
+	<allegro5/mouse.h>
+	"game.h"
+
